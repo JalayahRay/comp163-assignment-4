@@ -208,3 +208,5 @@ else:
 # TC2: if/elif/else + comparison operators (<=, != added)
 
 # TC3: membership (in/not in) + logical (and/or/not); unique outcomes per subject
+
+# TC4: identity operators (is/is not) + nested ifs + multiple endings
