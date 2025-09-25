@@ -204,3 +204,5 @@ if ending is not None:  # identity operator 'is not'
     print(ending)
 else:
     print("Outcome pending (no ending determined).")
+
+# TC2: if/elif/else + comparison operators (<=, != added)
