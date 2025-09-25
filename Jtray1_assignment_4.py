@@ -206,3 +206,5 @@ else:
     print("Outcome pending (no ending determined).")
 
 # TC2: if/elif/else + comparison operators (<=, != added)
+
+# TC3: membership (in/not in) + logical (and/or/not); unique outcomes per subject
